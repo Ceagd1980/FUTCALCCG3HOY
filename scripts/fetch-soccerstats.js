@@ -57,7 +57,7 @@ let navegador = null;
 async function iniciarNavegador() {
   navegador = await puppeteer.launch({
     headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
     protocolTimeout: 120000, // 120s en vez del default (~30s), para que páginas lentas no exploten el proceso
   });
 }
