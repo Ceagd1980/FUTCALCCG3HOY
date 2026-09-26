@@ -13,6 +13,7 @@ permissions:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - name: Clonar repo
         uses: actions/checkout@v4
