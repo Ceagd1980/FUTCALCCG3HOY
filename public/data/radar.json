@@ -1,51 +1,475 @@
 {
-  "generadoEn": "2026-09-24T09:26:15.692Z",
-  "fechaObjetivo": "2026-09-24",
-  "fuenteDatos": "2026-09-24T09:26:14.165Z",
-  "totalPartidos": 5,
-  "destacados": 3,
+  "generadoEn": "2026-09-26T04:49:28.359Z",
+  "fechaObjetivo": "2026-09-25",
+  "fuenteDatos": "2026-09-26T04:49:26.537Z",
+  "totalPartidos": 18,
+  "destacados": 7,
   "partidos": [
     {
-      "liga": "Colombia - Primera A - Clausura",
-      "region": "Colombia",
-      "ligaSlug": "colombia2",
-      "equipoLocal": "A. Nacional",
-      "equipoVisita": "Millonarios",
-      "horaInicio": "2026-09-25T01:30:00.000Z",
-      "equipoFavorito": "A. Nacional",
+      "liga": "Brazil - Serie B",
+      "region": "Brazil",
+      "ligaSlug": "brazil2",
+      "equipoLocal": "Novorizontino",
+      "equipoVisita": "Sao Bernardo",
+      "horaInicio": "2026-09-25T23:30:00.000Z",
+      "equipoFavorito": "Novorizontino",
       "probabilidades": {
-        "ganadorLocal": 37.5,
-        "empate": 25,
-        "ganadorVisita": 37.5,
-        "generalLocal": 42.1,
-        "generalEmpate": 21.1,
-        "generalVisita": 36.8,
-        "ganadorSimpleLocal": 75,
-        "ganadorSimpleVisita": 45.5,
-        "ganadorCasaLocal": 100,
-        "ganadorFueraVisita": 50,
-        "btts": 25,
-        "over15": 42,
-        "over25": 16.5,
-        "over35": 8.5,
-        "over05HT": 83.5,
-        "over15HT": 58.5,
-        "over25HT": 25
+        "ganadorLocal": 42.9,
+        "empate": 17.9,
+        "ganadorVisita": 39.3,
+        "generalLocal": 41.4,
+        "generalEmpate": 27.6,
+        "generalVisita": 31,
+        "ganadorSimpleLocal": 48.3,
+        "ganadorSimpleVisita": 37.9,
+        "ganadorCasaLocal": 57.1,
+        "ganadorFueraVisita": 57.1,
+        "btts": 24,
+        "over15": 28,
+        "over25": 3.5,
+        "over35": 3.5,
+        "over05HT": 76.5,
+        "over15HT": 48.5,
+        "over25HT": 24
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 2.25,
-        "localCasa": 3,
-        "visitaGeneral": 1.73,
-        "visitaFuera": 1.83
+        "localGeneral": 1.72,
+        "localCasa": 1.93,
+        "visitaGeneral": 1.41,
+        "visitaFuera": 1.86
       },
       "ataqueDefensa": {
-        "ataqueLocal": 26.6,
-        "defensaLocal": 117.3,
-        "ataqueVisita": 17,
+        "ataqueLocal": 21.1,
+        "defensaLocal": 84.7,
+        "ataqueVisita": 17.2,
+        "defensaVisita": 77.8
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Brazil - Serie B",
+      "region": "Brazil",
+      "ligaSlug": "brazil2",
+      "equipoLocal": "Vila Nova",
+      "equipoVisita": "Londrina",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Vila Nova",
+      "probabilidades": {
+        "ganadorLocal": 71.4,
+        "empate": 14.3,
+        "ganadorVisita": 14.3,
+        "generalLocal": 51.7,
+        "generalEmpate": 22.4,
+        "generalVisita": 25.9,
+        "ganadorSimpleLocal": 51.7,
+        "ganadorSimpleVisita": 24.1,
+        "ganadorCasaLocal": 78.6,
+        "ganadorFueraVisita": 21.4,
+        "btts": 20.5,
+        "over15": 34.5,
+        "over25": 10,
+        "over35": 3.5,
+        "over05HT": 69,
+        "over15HT": 35,
+        "over25HT": 7
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.76,
+        "localCasa": 2.5,
+        "visitaGeneral": 0.97,
+        "visitaFuera": 0.79
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 17.7,
+        "defensaLocal": 77.8,
+        "ataqueVisita": 16.8,
+        "defensaVisita": 60.6
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Canada - Premier League",
+      "region": "Canada",
+      "ligaSlug": "canada",
+      "equipoLocal": "Cavalry",
+      "equipoVisita": "Supra du Quebec",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Cavalry",
+      "probabilidades": {
+        "ganadorLocal": 59.1,
+        "empate": 22.7,
+        "ganadorVisita": 18.2,
+        "generalLocal": 59.1,
+        "generalEmpate": 20.5,
+        "generalVisita": 20.5,
+        "ganadorSimpleLocal": 68.2,
+        "ganadorSimpleVisita": 31.8,
+        "ganadorCasaLocal": 72.7,
+        "ganadorFueraVisita": 36.4,
+        "btts": 18,
+        "over15": 31.5,
+        "over25": 18,
+        "over35": 13.5,
+        "over05HT": 91,
+        "over15HT": 50,
+        "over25HT": 22.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 2.27,
+        "localCasa": 2.45,
+        "visitaGeneral": 1.14,
+        "visitaFuera": 1.27
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 23.9,
+        "defensaLocal": 108.7,
+        "ataqueVisita": 17.6,
+        "defensaVisita": 65.8
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Colombia - Primera A - Clausura",
+      "region": "Colombia",
+      "ligaSlug": "colombia2",
+      "equipoLocal": "Boyaca Chico",
+      "equipoVisita": "Deportivo Pasto",
+      "horaInicio": "2026-09-26T00:10:00.000Z",
+      "equipoFavorito": "Boyaca Chico",
+      "probabilidades": {
+        "ganadorLocal": 44.4,
+        "empate": 33.3,
+        "ganadorVisita": 22.2,
+        "generalLocal": 42.1,
+        "generalEmpate": 21.1,
+        "generalVisita": 36.8,
+        "ganadorSimpleLocal": 22.2,
+        "ganadorSimpleVisita": 20,
+        "ganadorCasaLocal": 50,
+        "ganadorFueraVisita": 20,
+        "btts": 30,
+        "over15": 50,
+        "over25": 30,
+        "over35": 10,
+        "over05HT": 80,
+        "over15HT": 40,
+        "over25HT": 10
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 0.89,
+        "localCasa": 1.75,
+        "visitaGeneral": 0.8,
+        "visitaFuera": 1
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 9.7,
+        "defensaLocal": 100.1,
+        "ataqueVisita": 11.3,
+        "defensaVisita": 105.3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Colombia - Primera A - Clausura",
+      "region": "Colombia",
+      "ligaSlug": "colombia2",
+      "equipoLocal": "Once Caldas",
+      "equipoVisita": "A. Bucaramanga",
+      "horaInicio": "2026-09-26T02:15:00.000Z",
+      "equipoFavorito": "A. Bucaramanga",
+      "probabilidades": {
+        "ganadorLocal": 22.2,
+        "empate": 22.2,
+        "ganadorVisita": 55.6,
+        "generalLocal": 15.8,
+        "generalEmpate": 42.1,
+        "generalVisita": 42.1,
+        "ganadorSimpleLocal": 30,
+        "ganadorSimpleVisita": 44.4,
+        "ganadorCasaLocal": 50,
+        "ganadorFueraVisita": 60,
+        "btts": 28.5,
+        "over15": 36.5,
+        "over25": 20,
+        "over35": 0,
+        "over05HT": 81.5,
+        "over15HT": 45,
+        "over25HT": 8.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.2,
+        "localCasa": 1.5,
+        "visitaGeneral": 1.89,
+        "visitaFuera": 2.2
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 16.3,
+        "defensaLocal": 110.4,
+        "ataqueVisita": 19.4,
+        "defensaVisita": 117.3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Mexico - Liga MX - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico",
+      "equipoLocal": "Atlante",
+      "equipoVisita": "Monterrey",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Atlante",
+      "probabilidades": {
+        "ganadorLocal": 28.6,
+        "empate": 42.9,
+        "ganadorVisita": 28.6,
+        "generalLocal": 23.5,
+        "generalEmpate": 35.3,
+        "generalVisita": 41.2,
+        "ganadorSimpleLocal": 11.1,
+        "ganadorSimpleVisita": 50,
+        "ganadorCasaLocal": 0,
+        "ganadorFueraVisita": 33.3,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 100,
+        "over15HT": 46.5,
+        "over25HT": 36.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 0.89,
+        "localCasa": 0.75,
+        "visitaGeneral": 1.63,
+        "visitaFuera": 1
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 11.1,
+        "defensaLocal": 108.7,
+        "ataqueVisita": 21.9,
+        "defensaVisita": 113.8
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Mexico - Liga MX - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico",
+      "equipoLocal": "Tijuana",
+      "equipoVisita": "Atlas",
+      "horaInicio": "2026-09-26T04:00:00.000Z",
+      "equipoFavorito": "Tijuana",
+      "probabilidades": {
+        "ganadorLocal": 55.6,
+        "empate": 0,
+        "ganadorVisita": 44.4,
+        "generalLocal": 41.2,
+        "generalEmpate": 23.5,
+        "generalVisita": 35.3,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 44.4,
+        "ganadorCasaLocal": 80,
+        "ganadorFueraVisita": 75,
+        "btts": 12.5,
+        "over15": 71,
+        "over25": 29,
+        "over35": 0,
+        "over05HT": 71,
+        "over15HT": 58.5,
+        "over25HT": 41.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.75,
+        "localCasa": 2.4,
+        "visitaGeneral": 1.56,
+        "visitaFuera": 2.25
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 18.8,
+        "defensaLocal": 113.8,
+        "ataqueVisita": 18.1,
+        "defensaVisita": 105.3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Mexico - Liga Expansion - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico3",
+      "equipoLocal": "Correcaminos",
+      "equipoVisita": "Jaiba Brava",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Correcaminos",
+      "probabilidades": {
+        "ganadorLocal": 62.5,
+        "empate": 25,
+        "ganadorVisita": 12.5,
+        "generalLocal": 38.9,
+        "generalEmpate": 27.8,
+        "generalVisita": 33.3,
+        "ganadorSimpleLocal": 33.3,
+        "ganadorSimpleVisita": 33.3,
+        "ganadorCasaLocal": 25,
+        "ganadorFueraVisita": 0,
+        "btts": 62.5,
+        "over15": 87.5,
+        "over25": 75,
+        "over35": 75,
+        "over05HT": null,
+        "over15HT": null,
+        "over25HT": null
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.33,
+        "localCasa": 1.25,
+        "visitaGeneral": 1.22,
+        "visitaFuera": 0
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 25,
+        "defensaLocal": 100.1,
+        "ataqueVisita": 15.3,
+        "defensaVisita": 105.3
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": true,
+        "btts60": true,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Northern Ireland - NIFL Premiership",
+      "region": "Northern Ireland",
+      "ligaSlug": "northernireland",
+      "equipoLocal": "Larne",
+      "equipoVisita": "Dungannon",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Larne",
+      "probabilidades": {
+        "ganadorLocal": 57.1,
+        "empate": 0,
+        "ganadorVisita": 42.9,
+        "generalLocal": 57.1,
+        "generalEmpate": 14.3,
+        "generalVisita": 28.6,
+        "ganadorSimpleLocal": 83.3,
+        "ganadorSimpleVisita": 50,
+        "ganadorCasaLocal": 100,
+        "ganadorFueraVisita": 75,
+        "btts": 16.5,
+        "over15": 16.5,
+        "over25": 16.5,
+        "over35": 16.5,
+        "over05HT": 71,
+        "over15HT": 41.5,
+        "over25HT": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 2.67,
+        "localCasa": 3,
+        "visitaGeneral": 1.63,
+        "visitaFuera": 2.25
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 25,
+        "defensaLocal": 125.9,
+        "ataqueVisita": 14.1,
         "defensaVisita": 117.3
       },
       "cumple": {
@@ -59,51 +483,51 @@
       "destacado": false
     },
     {
-      "liga": "France - National",
-      "region": "France",
-      "ligaSlug": "france3",
-      "equipoLocal": "Caen",
-      "equipoVisita": "Rouen",
-      "horaInicio": "2026-09-24T19:45:00.000Z",
-      "equipoFavorito": "Rouen",
+      "liga": "Paraguay - Primera Div. - Clausura",
+      "region": "Paraguay",
+      "ligaSlug": "paraguay2",
+      "equipoLocal": "Nacional",
+      "equipoVisita": "S. Ameliano",
+      "horaInicio": "2026-09-25T23:00:00.000Z",
+      "equipoFavorito": "Nacional",
       "probabilidades": {
-        "ganadorLocal": 42.9,
-        "empate": 0,
-        "ganadorVisita": 57.1,
-        "generalLocal": 28.6,
-        "generalEmpate": 14.3,
-        "generalVisita": 57.1,
-        "ganadorSimpleLocal": 57.1,
-        "ganadorSimpleVisita": 71.4,
-        "ganadorCasaLocal": 75,
-        "ganadorFueraVisita": 100,
+        "ganadorLocal": 50,
+        "empate": 40,
+        "ganadorVisita": 10,
+        "generalLocal": 36.4,
+        "generalEmpate": 36.4,
+        "generalVisita": 27.3,
+        "ganadorSimpleLocal": 54.5,
+        "ganadorSimpleVisita": 36.4,
+        "ganadorCasaLocal": 80,
+        "ganadorFueraVisita": 20,
         "btts": 16.5,
-        "over15": 33,
-        "over25": 16.5,
+        "over15": 16.5,
+        "over25": 0,
         "over35": 0,
-        "over05HT": 100,
-        "over15HT": 83.5,
-        "over25HT": 16.5
+        "over05HT": 91.5,
+        "over15HT": 55,
+        "over25HT": 18.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 1.71,
-        "localCasa": 2.25,
-        "visitaGeneral": 2.43,
-        "visitaFuera": 3
+        "localGeneral": 1.91,
+        "localCasa": 2.6,
+        "visitaGeneral": 1.55,
+        "visitaFuera": 1.2
       },
       "ataqueDefensa": {
-        "ataqueLocal": 21.4,
-        "defensaLocal": 119,
-        "ataqueVisita": 23.2,
-        "defensaVisita": 127.6
+        "ataqueLocal": 20.5,
+        "defensaLocal": 120.7,
+        "ataqueVisita": 14.8,
+        "defensaVisita": 110.4
       },
       "cumple": {
         "ganador60": false,
-        "ganadorSimple60": true,
+        "ganadorSimple60": false,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
@@ -112,47 +536,312 @@
       "destacado": false
     },
     {
-      "liga": "Guatemala - Liga Nacional - Apertura",
-      "region": "Guatemala",
-      "ligaSlug": "guatemala",
-      "equipoLocal": "Municipal",
-      "equipoVisita": "Suchitepequez",
-      "horaInicio": "2026-09-25T03:00:00.000Z",
-      "equipoFavorito": "Municipal",
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Dunfermline",
+      "equipoVisita": "Partick Thistle",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Dunfermline",
       "probabilidades": {
-        "ganadorLocal": 80,
-        "empate": 20,
-        "ganadorVisita": 0,
-        "generalLocal": 63.2,
-        "generalEmpate": 26.3,
-        "generalVisita": 10.5,
-        "ganadorSimpleLocal": 66.7,
-        "ganadorSimpleVisita": 10,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 0,
-        "btts": 12.5,
-        "over15": 22.5,
-        "over25": 22.5,
+        "ganadorLocal": 50,
+        "empate": 33.3,
+        "ganadorVisita": 16.7,
+        "generalLocal": 28.6,
+        "generalEmpate": 42.9,
+        "generalVisita": 28.6,
+        "ganadorSimpleLocal": 42.9,
+        "ganadorSimpleVisita": 42.9,
+        "ganadorCasaLocal": 66.7,
+        "ganadorFueraVisita": 33.3,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0,
         "over35": 0,
-        "over05HT": 65,
-        "over15HT": 52.5,
-        "over25HT": 20
+        "over05HT": 87.5,
+        "over15HT": 12.5,
+        "over25HT": 0
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 2.22,
-        "localCasa": 2.2,
-        "visitaGeneral": 0.6,
-        "visitaFuera": 0
+        "localGeneral": 1.71,
+        "localCasa": 2.33,
+        "visitaGeneral": 1.71,
+        "visitaFuera": 1.33
       },
       "ataqueDefensa": {
-        "ataqueLocal": 18.1,
-        "defensaLocal": 122.4,
-        "ataqueVisita": 13.8,
-        "defensaVisita": 96.7
+        "ataqueLocal": 10.7,
+        "defensaLocal": 124.1,
+        "ataqueVisita": 8.9,
+        "defensaVisita": 127.6
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "Hartford A.",
+      "equipoVisita": "Louisville City",
+      "horaInicio": "2026-09-26T00:00:00.000Z",
+      "equipoFavorito": "Hartford A.",
+      "probabilidades": {
+        "ganadorLocal": 43.5,
+        "empate": 34.8,
+        "ganadorVisita": 21.7,
+        "generalLocal": 36,
+        "generalEmpate": 34,
+        "generalVisita": 30,
+        "ganadorSimpleLocal": 36,
+        "ganadorSimpleVisita": 40,
+        "ganadorCasaLocal": 45.5,
+        "ganadorFueraVisita": 33.3,
+        "btts": 16.5,
+        "over15": 24.5,
+        "over25": 12.5,
+        "over35": 4,
+        "over05HT": 78,
+        "over15HT": 44,
+        "over25HT": 16.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.52,
+        "localCasa": 1.82,
+        "visitaGeneral": 1.44,
+        "visitaFuera": 1.25
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 13.5,
+        "defensaLocal": 89.8,
+        "ataqueVisita": 20.5,
+        "defensaVisita": 62.4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "Sporting JAX",
+      "equipoVisita": "Loudoun Utd",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Loudoun Utd",
+      "probabilidades": {
+        "ganadorLocal": 34.8,
+        "empate": 26.1,
+        "ganadorVisita": 39.1,
+        "generalLocal": 26.5,
+        "generalEmpate": 32.7,
+        "generalVisita": 40.8,
+        "ganadorSimpleLocal": 12,
+        "ganadorSimpleVisita": 12.5,
+        "ganadorCasaLocal": 16.7,
+        "ganadorFueraVisita": 18.2,
+        "btts": 9,
+        "over15": 33.5,
+        "over25": 20.5,
+        "over35": 8.5,
+        "over05HT": 73.5,
+        "over15HT": 45,
+        "over25HT": 25
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 0.56,
+        "localCasa": 0.75,
+        "visitaGeneral": 0.83,
+        "visitaFuera": 0.82
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 15,
+        "defensaLocal": 19.5,
+        "ataqueVisita": 14.1,
+        "defensaVisita": 58.9
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "El Paso",
+      "equipoVisita": "FC Tulsa",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "El Paso",
+      "probabilidades": {
+        "ganadorLocal": 43.5,
+        "empate": 26.1,
+        "ganadorVisita": 30.4,
+        "generalLocal": 42.9,
+        "generalEmpate": 22.4,
+        "generalVisita": 34.7,
+        "ganadorSimpleLocal": 56,
+        "ganadorSimpleVisita": 41.7,
+        "ganadorCasaLocal": 54.5,
+        "ganadorFueraVisita": 33.3,
+        "btts": 18.5,
+        "over15": 41,
+        "over25": 14.5,
+        "over35": 4,
+        "over05HT": 80.5,
+        "over15HT": 36,
+        "over25HT": 8.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.84,
+        "localCasa": 1.82,
+        "visitaGeneral": 1.54,
+        "visitaFuera": 1.33
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 22,
+        "defensaLocal": 77.8,
+        "ataqueVisita": 15.1,
+        "defensaVisita": 91.5
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "R. Louisville W",
+      "equipoVisita": "San Diego W. W",
+      "horaInicio": "2026-09-25T23:30:00.000Z",
+      "equipoFavorito": "San Diego W. W",
+      "probabilidades": {
+        "ganadorLocal": 34.8,
+        "empate": 17.4,
+        "ganadorVisita": 47.8,
+        "generalLocal": 30,
+        "generalEmpate": 10,
+        "generalVisita": 60,
+        "ganadorSimpleLocal": 28,
+        "ganadorSimpleVisita": 56,
+        "ganadorCasaLocal": 41.7,
+        "ganadorFueraVisita": 54.5,
+        "btts": 7.5,
+        "over15": 27.5,
+        "over25": 7.5,
+        "over35": 0,
+        "over05HT": 83.5,
+        "over15HT": 53.5,
+        "over25HT": 37
+      },
+      "rachas": {
+        "local": "W23",
+        "visita": "W45"
+      },
+      "ppg": {
+        "localGeneral": 0.92,
+        "localCasa": 1.42,
+        "visitaGeneral": 1.8,
+        "visitaFuera": 1.82
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 17.5,
+        "defensaLocal": 46.9,
+        "ataqueVisita": 18,
+        "defensaVisita": 84.7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "Gotham FC W",
+      "equipoVisita": "Chicago RS W",
+      "horaInicio": "2026-09-26T01:00:00.000Z",
+      "equipoFavorito": "Gotham FC W",
+      "probabilidades": {
+        "ganadorLocal": 72,
+        "empate": 20,
+        "ganadorVisita": 8,
+        "generalLocal": 66,
+        "generalEmpate": 16,
+        "generalVisita": 18,
+        "ganadorSimpleLocal": 60,
+        "ganadorSimpleVisita": 20,
+        "ganadorCasaLocal": 58.3,
+        "ganadorFueraVisita": 7.7,
+        "btts": 15.5,
+        "over15": 26.5,
+        "over25": 8,
+        "over35": 0,
+        "over05HT": 88.5,
+        "over15HT": 38.5,
+        "over25HT": 19.5
+      },
+      "rachas": {
+        "local": "W51",
+        "visita": "W17"
+      },
+      "ppg": {
+        "localGeneral": 2.04,
+        "localCasa": 2.08,
+        "visitaGeneral": 0.68,
+        "visitaFuera": 0.31
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 15.5,
+        "defensaLocal": 98.4,
+        "ataqueVisita": 7,
+        "defensaVisita": 33.2
       },
       "cumple": {
         "ganador60": true,
@@ -160,113 +849,113 @@
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
-        "rachaGanadora": false
+        "rachaGanadora": true
       },
       "destacado": true
     },
     {
-      "liga": "Mexico - Liga Expansion - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico3",
-      "equipoLocal": "Alebrijes",
-      "equipoVisita": "CA La Paz",
-      "horaInicio": "2026-09-25T02:00:00.000Z",
-      "equipoFavorito": "Alebrijes",
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "Seattle Reign W",
+      "equipoVisita": "Boston Legacy W",
+      "horaInicio": "2026-09-26T01:30:00.000Z",
+      "equipoFavorito": "Seattle Reign W",
       "probabilidades": {
-        "ganadorLocal": 37.5,
-        "empate": 25,
-        "ganadorVisita": 37.5,
-        "generalLocal": 27.8,
-        "generalEmpate": 16.7,
-        "generalVisita": 55.6,
-        "ganadorSimpleLocal": 33.3,
-        "ganadorSimpleVisita": 55.6,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 50,
-        "btts": 57.5,
-        "over15": 100,
-        "over25": 90,
-        "over35": 47.5,
-        "over05HT": null,
-        "over15HT": null,
-        "over25HT": null
+        "ganadorLocal": 52.2,
+        "empate": 21.7,
+        "ganadorVisita": 26.1,
+        "generalLocal": 48,
+        "generalEmpate": 18,
+        "generalVisita": 34,
+        "ganadorSimpleLocal": 44,
+        "ganadorSimpleVisita": 28,
+        "ganadorCasaLocal": 58.3,
+        "ganadorFueraVisita": 27.3,
+        "btts": 24.5,
+        "over15": 40,
+        "over25": 4,
+        "over35": 0,
+        "over05HT": 79.5,
+        "over15HT": 49.5,
+        "over25HT": 13
       },
       "rachas": {
-        "local": "-",
-        "visita": "-"
+        "local": "W37",
+        "visita": "W26"
       },
       "ppg": {
-        "localGeneral": 1.11,
-        "localCasa": 1.75,
-        "visitaGeneral": 1.89,
-        "visitaFuera": 1.75
+        "localGeneral": 1.48,
+        "localCasa": 1.92,
+        "visitaGeneral": 1.04,
+        "visitaFuera": 1.09
       },
       "ataqueDefensa": {
-        "ataqueLocal": 9.7,
-        "defensaLocal": 105.3,
-        "ataqueVisita": 27.8,
-        "defensaVisita": 113.8
+        "ataqueLocal": 15.5,
+        "defensaLocal": 77.8,
+        "ataqueVisita": 16,
+        "defensaVisita": 58.9
       },
       "cumple": {
         "ganador60": false,
         "ganadorSimple60": false,
-        "over15_60": true,
-        "over25_60": true,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Mexico - Liga Expansion - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico3",
-      "equipoLocal": "M. Zacatecas",
-      "equipoVisita": "Piratas",
-      "horaInicio": "2026-09-25T02:00:00.000Z",
-      "equipoFavorito": "M. Zacatecas",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 40,
-        "ganadorVisita": 20,
-        "generalLocal": 33.3,
-        "generalEmpate": 27.8,
-        "generalVisita": 38.9,
-        "ganadorSimpleLocal": 44.4,
-        "ganadorSimpleVisita": 44.4,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 20,
-        "btts": 45,
-        "over15": 77.5,
-        "over25": 47.5,
-        "over35": 25,
-        "over05HT": null,
-        "over15HT": null,
-        "over25HT": null
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.56,
-        "localCasa": 2,
-        "visitaGeneral": 1.67,
-        "visitaFuera": 1.2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 25,
-        "defensaLocal": 105.3,
-        "ataqueVisita": 16.7,
-        "defensaVisita": 119
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": true,
+        "over15_60": false,
         "over25_60": false,
         "btts60": false,
-        "rachaGanadora": false
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - USL Super League",
+      "region": "USA",
+      "ligaSlug": "usa7",
+      "equipoLocal": "Lexington W",
+      "equipoVisita": "Dallas T. W",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Dallas T. W",
+      "probabilidades": {
+        "ganadorLocal": 40,
+        "empate": 0,
+        "ganadorVisita": 60,
+        "generalLocal": 40,
+        "generalEmpate": 10,
+        "generalVisita": 50,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 50,
+        "ganadorCasaLocal": 33.3,
+        "ganadorFueraVisita": 50,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 100,
+        "over15HT": 25,
+        "over25HT": 0
+      },
+      "rachas": {
+        "local": "W6",
+        "visita": "W10"
+      },
+      "ppg": {
+        "localGeneral": 1.5,
+        "localCasa": 1,
+        "visitaGeneral": 1.67,
+        "visitaFuera": 1.5
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 15.6,
+        "defensaLocal": 125.9,
+        "ataqueVisita": 18.8,
+        "defensaVisita": 117.3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
       },
       "destacado": true
     }
