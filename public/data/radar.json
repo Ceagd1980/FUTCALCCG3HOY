@@ -1,52 +1,52 @@
 {
-  "generadoEn": "2026-10-21T11:59:38.165Z",
-  "fechaObjetivo": "2026-10-21",
-  "fuenteDatos": "2026-10-21T11:59:37.123Z",
-  "totalPartidos": 50,
-  "destacados": 9,
+  "generadoEn": "2026-10-22T11:52:50.705Z",
+  "fechaObjetivo": "2026-10-22",
+  "fuenteDatos": "2026-10-22T11:52:49.841Z",
+  "totalPartidos": 13,
+  "destacados": 6,
   "partidos": [
     {
-      "liga": "Colombia - Primera A - Clausura",
-      "region": "Colombia",
-      "ligaSlug": "colombia2",
-      "equipoLocal": "Llaneros",
-      "equipoVisita": "Deportivo Cali",
-      "horaInicio": "2026-10-22T00:15:00.000Z",
-      "equipoFavorito": "Llaneros",
+      "liga": "Armenia - Premier League",
+      "region": "Armenia",
+      "ligaSlug": "armenia",
+      "equipoLocal": "Sardarapat",
+      "equipoVisita": "Urartu",
+      "horaInicio": "2026-10-22T16:00:00.000Z",
+      "equipoFavorito": "Urartu",
       "probabilidades": {
-        "ganadorLocal": 42.9,
-        "empate": 14.3,
-        "ganadorVisita": 42.9,
-        "generalLocal": 25,
-        "generalEmpate": 25,
-        "generalVisita": 50,
-        "ganadorSimpleLocal": 35.7,
-        "ganadorSimpleVisita": 50,
-        "ganadorCasaLocal": 57.1,
-        "ganadorFueraVisita": 42.9,
-        "btts": 14.5,
-        "over15": 21.5,
-        "over25": 14.5,
-        "over35": 7,
-        "over05HT": 78.5,
-        "over15HT": 21.5,
-        "over25HT": 0
+        "ganadorLocal": 37.5,
+        "empate": 12.5,
+        "ganadorVisita": 50,
+        "generalLocal": 35,
+        "generalEmpate": 30,
+        "generalVisita": 35,
+        "ganadorSimpleLocal": 40,
+        "ganadorSimpleVisita": 40,
+        "ganadorCasaLocal": 25,
+        "ganadorFueraVisita": 50,
+        "btts": 21,
+        "over15": 50,
+        "over25": 12.5,
+        "over35": 0,
+        "over05HT": 79,
+        "over15HT": 37.5,
+        "over25HT": 8.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 1.21,
-        "localCasa": 1.71,
-        "visitaGeneral": 1.86,
-        "visitaFuera": 1.57
+        "localGeneral": 1.5,
+        "localCasa": 1,
+        "visitaGeneral": 1.5,
+        "visitaFuera": 1.5
       },
       "ataqueDefensa": {
-        "ataqueLocal": 14.3,
-        "defensaLocal": 101.8,
-        "ataqueVisita": 17.9,
-        "defensaVisita": 115.6
+        "ataqueLocal": 21.3,
+        "defensaLocal": 100.1,
+        "ataqueVisita": 23.8,
+        "defensaVisita": 107
       },
       "cumple": {
         "ganador60": false,
@@ -62,187 +62,28 @@
       "liga": "Colombia - Primera A - Clausura",
       "region": "Colombia",
       "ligaSlug": "colombia2",
-      "equipoLocal": "Santa Fe",
-      "equipoVisita": "Jaguares de C.",
-      "horaInicio": "2026-10-22T02:20:00.000Z",
-      "equipoFavorito": "Santa Fe",
+      "equipoLocal": "A. Nacional",
+      "equipoVisita": "Deportivo Pasto",
+      "horaInicio": "2026-10-23T02:00:00.000Z",
+      "equipoFavorito": "A. Nacional",
       "probabilidades": {
-        "ganadorLocal": 61.5,
-        "empate": 30.8,
-        "ganadorVisita": 7.7,
-        "generalLocal": 50,
-        "generalEmpate": 30.8,
+        "ganadorLocal": 54.5,
+        "empate": 36.4,
+        "ganadorVisita": 9.1,
+        "generalLocal": 61.5,
+        "generalEmpate": 19.2,
         "generalVisita": 19.2,
-        "ganadorSimpleLocal": 46.2,
+        "ganadorSimpleLocal": 61.5,
         "ganadorSimpleVisita": 15.4,
-        "ganadorCasaLocal": 42.9,
-        "ganadorFueraVisita": 0,
-        "btts": 33.5,
-        "over15": 41.5,
-        "over25": 8.5,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 58.5,
-        "over25HT": 25
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.69,
-        "localCasa": 1.71,
-        "visitaGeneral": 0.77,
-        "visitaFuera": 0.17
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 18.3,
-        "defensaLocal": 108.7,
-        "ataqueVisita": 14.4,
-        "defensaVisita": 86.4
-      },
-      "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Egypt - Premier League",
-      "region": "Egypt",
-      "ligaSlug": "egypt",
-      "equipoLocal": "Ghazl El M.",
-      "equipoVisita": "Al Ittihad",
-      "horaInicio": "2026-10-21T15:00:00.000Z",
-      "equipoFavorito": "Al Ittihad",
-      "probabilidades": {
-        "ganadorLocal": 0,
-        "empate": 33.3,
-        "ganadorVisita": 66.7,
-        "generalLocal": 8.3,
-        "generalEmpate": 16.7,
-        "generalVisita": 75,
-        "ganadorSimpleLocal": 0,
-        "ganadorSimpleVisita": 66.7,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 66.7,
-        "btts": 16.5,
-        "over15": 16.5,
-        "over25": 16.5,
-        "over35": 0,
-        "over05HT": 67,
-        "over15HT": 50,
-        "over25HT": 0
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.17,
-        "localCasa": 0.33,
-        "visitaGeneral": 2.17,
-        "visitaFuera": 2.33
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 2.1,
-        "defensaLocal": 113.8,
-        "ataqueVisita": 16.7,
-        "defensaVisita": 124.1
-      },
-      "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Egypt - Premier League",
-      "region": "Egypt",
-      "ligaSlug": "egypt",
-      "equipoLocal": "Al Ahly",
-      "equipoVisita": "Olympic El Qana",
-      "horaInicio": "2026-10-21T18:00:00.000Z",
-      "equipoFavorito": "Al Ahly",
-      "probabilidades": {
-        "ganadorLocal": 66.7,
-        "empate": 16.7,
-        "ganadorVisita": 16.7,
-        "generalLocal": 50,
-        "generalEmpate": 41.7,
-        "generalVisita": 8.3,
-        "ganadorSimpleLocal": 83.3,
-        "ganadorSimpleVisita": 16.7,
-        "ganadorCasaLocal": 100,
-        "ganadorFueraVisita": 33.3,
-        "btts": 0,
-        "over15": 0,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 83.5,
+        "ganadorCasaLocal": 60,
+        "ganadorFueraVisita": 16.7,
+        "btts": 37.5,
+        "over15": 50,
+        "over25": 29,
+        "over35": 14.5,
+        "over05HT": 72.5,
         "over15HT": 33.5,
-        "over25HT": 16.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.67,
-        "localCasa": 3,
-        "visitaGeneral": 1.17,
-        "visitaFuera": 1.33
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 22.9,
-        "defensaLocal": 125.9,
-        "ataqueVisita": 12.5,
-        "defensaVisita": 120.7
-      },
-      "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Egypt - Premier League",
-      "region": "Egypt",
-      "ligaSlug": "egypt",
-      "equipoLocal": "Ceramica C.",
-      "equipoVisita": "Petrojet",
-      "horaInicio": "2026-10-21T18:00:00.000Z",
-      "equipoFavorito": "Ceramica C.",
-      "probabilidades": {
-        "ganadorLocal": 50,
-        "empate": 16.7,
-        "ganadorVisita": 33.3,
-        "generalLocal": 50,
-        "generalEmpate": 16.7,
-        "generalVisita": 33.3,
-        "ganadorSimpleLocal": 66.7,
-        "ganadorSimpleVisita": 33.3,
-        "ganadorCasaLocal": 66.7,
-        "ganadorFueraVisita": 33.3,
-        "btts": 16.5,
-        "over15": 33,
-        "over25": 16.5,
-        "over35": 16.5,
-        "over05HT": 100,
-        "over15HT": 67,
-        "over25HT": 16.5
+        "over25HT": 21
       },
       "rachas": {
         "local": "-",
@@ -250,337 +91,19 @@
       },
       "ppg": {
         "localGeneral": 2,
-        "localCasa": 2,
-        "visitaGeneral": 1.33,
-        "visitaFuera": 1.33
+        "localCasa": 2.2,
+        "visitaGeneral": 0.69,
+        "visitaFuera": 0.83
       },
       "ataqueDefensa": {
-        "ataqueLocal": 22.9,
-        "defensaLocal": 119,
-        "ataqueVisita": 20.8,
-        "defensaVisita": 113.8
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "England - League One",
-      "region": "England",
-      "ligaSlug": "england3",
-      "equipoLocal": "Reading",
-      "equipoVisita": "Leyton Orient",
-      "horaInicio": "2026-10-21T20:00:00.000Z",
-      "equipoFavorito": "Reading",
-      "probabilidades": {
-        "ganadorLocal": 33.3,
-        "empate": 33.3,
-        "ganadorVisita": 33.3,
-        "generalLocal": 40,
-        "generalEmpate": 25,
-        "generalVisita": 35,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 40,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 50,
-        "btts": 12.5,
-        "over15": 12.5,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 65,
-        "over15HT": 42.5,
-        "over25HT": 32.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.5,
-        "localCasa": 2,
-        "visitaGeneral": 1.4,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 27.5,
+        "ataqueLocal": 24,
         "defensaLocal": 110.4,
-        "ataqueVisita": 18.8,
-        "defensaVisita": 112.1
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "England - Isthmian league",
-      "region": "England",
-      "ligaSlug": "england8",
-      "equipoLocal": "Whyteleafe",
-      "equipoVisita": "Burgess Hill",
-      "horaInicio": "2026-10-21T19:45:00.000Z",
-      "equipoFavorito": "Whyteleafe",
-      "probabilidades": {
-        "ganadorLocal": 45.5,
-        "empate": 36.4,
-        "ganadorVisita": 18.2,
-        "generalLocal": 25,
-        "generalEmpate": 33.3,
-        "generalVisita": 41.7,
-        "ganadorSimpleLocal": 30.8,
-        "ganadorSimpleVisita": 36.4,
-        "ganadorCasaLocal": 42.9,
-        "ganadorFueraVisita": 0,
-        "btts": 8.5,
-        "over15": 25,
-        "over25": 16.5,
-        "over35": 0,
-        "over05HT": 75,
-        "over15HT": 29,
-        "over25HT": 29
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.15,
-        "localCasa": 1.57,
-        "visitaGeneral": 1.55,
-        "visitaFuera": 0.5
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.2,
-        "defensaLocal": 93.2,
-        "ataqueVisita": 22.7,
-        "defensaVisita": 105.3
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "England - Northern league",
-      "region": "England",
-      "ligaSlug": "england9",
-      "equipoLocal": "Avro",
-      "equipoVisita": "Ashton Utd",
-      "horaInicio": "2026-10-21T19:45:00.000Z",
-      "equipoFavorito": "Avro",
-      "probabilidades": {
-        "ganadorLocal": 50,
-        "empate": 33.3,
-        "ganadorVisita": 16.7,
-        "generalLocal": 50,
-        "generalEmpate": 23.1,
-        "generalVisita": 26.9,
-        "ganadorSimpleLocal": 61.5,
-        "ganadorSimpleVisita": 23.1,
-        "ganadorCasaLocal": 66.7,
-        "ganadorFueraVisita": 16.7,
-        "btts": 7,
-        "over15": 38,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 84.5,
-        "over15HT": 68,
-        "over25HT": 23
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.92,
-        "localCasa": 2.17,
-        "visitaGeneral": 1.08,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 32.7,
-        "defensaLocal": 88.1,
-        "ataqueVisita": 14.4,
-        "defensaVisita": 105.3
+        "ataqueVisita": 8.7,
+        "defensaVisita": 98.4
       },
       "cumple": {
         "ganador60": false,
         "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "England - Southern South",
-      "region": "England",
-      "ligaSlug": "england11",
-      "equipoLocal": "Frome Town",
-      "equipoVisita": "Gloucester City",
-      "horaInicio": "2026-10-21T19:45:00.000Z",
-      "equipoFavorito": "Frome Town",
-      "probabilidades": {
-        "ganadorLocal": 36.4,
-        "empate": 45.5,
-        "ganadorVisita": 18.2,
-        "generalLocal": 39.1,
-        "generalEmpate": 34.8,
-        "generalVisita": 26.1,
-        "ganadorSimpleLocal": 38.5,
-        "ganadorSimpleVisita": 20,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 20,
-        "btts": 64.5,
-        "over15": 93,
-        "over25": 61.5,
-        "over35": 54.5,
-        "over05HT": null,
-        "over15HT": null,
-        "over25HT": null
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.46,
-        "localCasa": 1.5,
-        "visitaGeneral": 1,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.2,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 18.8,
-        "defensaVisita": 100.1
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": true,
-        "over25_60": true,
-        "btts60": true,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Estonia - Meistriliiga",
-      "region": "Estonia",
-      "ligaSlug": "estonia",
-      "equipoLocal": "Harju JK",
-      "equipoVisita": "Flora",
-      "horaInicio": "2026-10-21T16:00:00.000Z",
-      "equipoFavorito": "Flora",
-      "probabilidades": {
-        "ganadorLocal": 40.6,
-        "empate": 9.4,
-        "ganadorVisita": 50,
-        "generalLocal": 40.6,
-        "generalEmpate": 4.7,
-        "generalVisita": 54.7,
-        "ganadorSimpleLocal": 43.8,
-        "ganadorSimpleVisita": 59.4,
-        "ganadorCasaLocal": 47.1,
-        "ganadorFueraVisita": 60,
-        "btts": 16.5,
-        "over15": 43.5,
-        "over25": 10,
-        "over35": 7,
-        "over05HT": 87,
-        "over15HT": 50,
-        "over25HT": 20
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.38,
-        "localCasa": 1.53,
-        "visitaGeneral": 1.81,
-        "visitaFuera": 1.87
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 17.6,
-        "defensaLocal": 50.3,
-        "ataqueVisita": 24.2,
-        "defensaVisita": 55.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Guatemala - Liga Nacional - Apertura",
-      "region": "Guatemala",
-      "ligaSlug": "guatemala",
-      "equipoLocal": "Mixco",
-      "equipoVisita": "Municipal",
-      "horaInicio": "2026-10-21T22:00:00.000Z",
-      "equipoFavorito": "Mixco",
-      "probabilidades": {
-        "ganadorLocal": 61.5,
-        "empate": 15.4,
-        "ganadorVisita": 23.1,
-        "generalLocal": 28.6,
-        "generalEmpate": 28.6,
-        "generalVisita": 42.9,
-        "ganadorSimpleLocal": 42.9,
-        "ganadorSimpleVisita": 50,
-        "ganadorCasaLocal": 85.7,
-        "ganadorFueraVisita": 50,
-        "btts": 23.5,
-        "over15": 23.5,
-        "over25": 15.5,
-        "over35": 0,
-        "over05HT": 75,
-        "over15HT": 38,
-        "over25HT": 21.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.5,
-        "localCasa": 2.71,
-        "visitaGeneral": 1.86,
-        "visitaFuera": 1.67
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 21.4,
-        "defensaLocal": 91.5,
-        "ataqueVisita": 17.9,
-        "defensaVisita": 113.8
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
@@ -592,610 +115,27 @@
       "liga": "Indonesia - Liga 1",
       "region": "Indonesia",
       "ligaSlug": "indonesia",
-      "equipoLocal": "Persija",
-      "equipoVisita": "Arema",
-      "horaInicio": "2026-10-21T13:00:00.000Z",
-      "equipoFavorito": "Persija",
+      "equipoLocal": "Madura Utd",
+      "equipoVisita": "Persib",
+      "horaInicio": "2026-10-22T13:00:00.000Z",
+      "equipoFavorito": "Madura Utd",
       "probabilidades": {
-        "ganadorLocal": 75,
-        "empate": 25,
-        "ganadorVisita": 0,
-        "generalLocal": 50,
-        "generalEmpate": 30,
-        "generalVisita": 20,
-        "ganadorSimpleLocal": 80,
-        "ganadorSimpleVisita": 20,
-        "ganadorCasaLocal": 100,
-        "ganadorFueraVisita": 0,
-        "btts": 66.5,
-        "over15": 66.5,
-        "over25": 50,
-        "over35": 0,
-        "over05HT": 83.5,
-        "over15HT": 58.5,
-        "over25HT": 58.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.4,
-        "localCasa": 3,
-        "visitaGeneral": 1.2,
-        "visitaFuera": 0.5
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 25,
-        "defensaLocal": 124.1,
-        "ataqueVisita": 27.5,
-        "defensaVisita": 115.6
-      },
-      "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": true,
-        "over15_60": true,
-        "over25_60": false,
-        "btts60": true,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Avispa Fukuoka",
-      "equipoVisita": "Gamba Osaka",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Avispa Fukuoka",
-      "probabilidades": {
-        "ganadorLocal": 41.7,
-        "empate": 33.3,
-        "ganadorVisita": 25,
-        "generalLocal": 35,
-        "generalEmpate": 25,
-        "generalVisita": 40,
-        "ganadorSimpleLocal": 20,
-        "ganadorSimpleVisita": 10,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 0,
-        "btts": 21,
-        "over15": 29,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 62.5,
-        "over25HT": 21
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.7,
-        "localCasa": 1.17,
-        "visitaGeneral": 0.7,
-        "visitaFuera": 0.5
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 13.8,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 12.5,
-        "defensaVisita": 100.1
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Fagiano Okayama",
-      "equipoVisita": "Mito Hollyhock",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Fagiano Okayama",
-      "probabilidades": {
-        "ganadorLocal": 44.4,
-        "empate": 22.2,
-        "ganadorVisita": 33.3,
-        "generalLocal": 45,
-        "generalEmpate": 20,
-        "generalVisita": 35,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 20,
-        "ganadorCasaLocal": 40,
-        "ganadorFueraVisita": 25,
-        "btts": 40,
-        "over15": 65,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 90,
-        "over15HT": 35,
-        "over25HT": 0
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.3,
-        "localCasa": 1.4,
-        "visitaGeneral": 0.9,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 15,
-        "defensaLocal": 105.3,
-        "ataqueVisita": 15,
-        "defensaVisita": 107
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": true,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "FC Tokyo",
-      "equipoVisita": "Kashiwa Reysol",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "FC Tokyo",
-      "probabilidades": {
-        "ganadorLocal": 50,
-        "empate": 0,
-        "ganadorVisita": 50,
-        "generalLocal": 50,
-        "generalEmpate": 10,
-        "generalVisita": 40,
-        "ganadorSimpleLocal": 70,
-        "ganadorSimpleVisita": 70,
-        "ganadorCasaLocal": 80,
-        "ganadorFueraVisita": 80,
-        "btts": 20,
-        "over15": 40,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 60,
-        "over25HT": 30
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.3,
-        "localCasa": 2.4,
-        "visitaGeneral": 2.1,
-        "visitaFuera": 2.4
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 26.3,
-        "defensaLocal": 117.3,
-        "ataqueVisita": 27.5,
-        "defensaVisita": 101.8
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "K. Frontale",
-      "equipoVisita": "Vissel Kobe",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Vissel Kobe",
-      "probabilidades": {
-        "ganadorLocal": 36.4,
-        "empate": 18.2,
-        "ganadorVisita": 45.5,
-        "generalLocal": 30,
-        "generalEmpate": 25,
-        "generalVisita": 45,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 70,
-        "ganadorCasaLocal": 40,
-        "ganadorFueraVisita": 66.7,
-        "btts": 10,
-        "over15": 10,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 83.5,
-        "over15HT": 46.5,
-        "over25HT": 36.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.6,
-        "localCasa": 1.6,
-        "visitaGeneral": 2.2,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 26.3,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 21.3,
-        "defensaVisita": 115.6
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Kyoto Sanga",
-      "equipoVisita": "Kashima Antlers",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Kashima Antlers",
-      "probabilidades": {
-        "ganadorLocal": 33.3,
-        "empate": 11.1,
-        "ganadorVisita": 55.6,
-        "generalLocal": 25,
-        "generalEmpate": 15,
-        "generalVisita": 60,
-        "ganadorSimpleLocal": 20,
-        "ganadorSimpleVisita": 60,
-        "ganadorCasaLocal": 25,
-        "ganadorFueraVisita": 40,
-        "btts": 28.5,
-        "over15": 46.5,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 73.5,
-        "over25HT": 56.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.8,
-        "localCasa": 0.75,
-        "visitaGeneral": 1.9,
-        "visitaFuera": 1.4
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 13.8,
-        "defensaLocal": 98.4,
-        "ataqueVisita": 26.3,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Nagoya G.",
-      "equipoVisita": "Cerezo Osaka",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Nagoya G.",
-      "probabilidades": {
-        "ganadorLocal": 62.5,
-        "empate": 12.5,
-        "ganadorVisita": 25,
-        "generalLocal": 40,
-        "generalEmpate": 15,
-        "generalVisita": 45,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 30,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 0,
-        "btts": 16.5,
-        "over15": 41.5,
-        "over25": 21,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 29,
-        "over25HT": 21
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.2,
-        "localCasa": 1.5,
-        "visitaGeneral": 1.2,
-        "visitaFuera": 0.25
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 15,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 11.3,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Shimizu S-Pulse",
-      "equipoVisita": "Machida Zelvia",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Machida Zelvia",
-      "probabilidades": {
-        "ganadorLocal": 18.2,
-        "empate": 27.3,
-        "ganadorVisita": 54.5,
-        "generalLocal": 25,
-        "generalEmpate": 20,
-        "generalVisita": 55,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 70,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 80,
-        "btts": 20,
-        "over15": 30,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 77.5,
-        "over15HT": 55,
-        "over25HT": 45
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.4,
-        "localCasa": 1.33,
-        "visitaGeneral": 2.3,
-        "visitaFuera": 2.6
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 12.5,
-        "defensaLocal": 112.1,
-        "ataqueVisita": 31.3,
-        "defensaVisita": 113.8
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "V-V. Nagasaki",
-      "equipoVisita": "S. Hiroshima",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "S. Hiroshima",
-      "probabilidades": {
-        "ganadorLocal": 30,
-        "empate": 30,
-        "ganadorVisita": 40,
-        "generalLocal": 15,
-        "generalEmpate": 25,
-        "generalVisita": 60,
-        "ganadorSimpleLocal": 20,
-        "ganadorSimpleVisita": 70,
-        "ganadorCasaLocal": 40,
-        "ganadorFueraVisita": 60,
-        "btts": 20,
-        "over15": 40,
-        "over25": 20,
-        "over35": 0,
-        "over05HT": 80,
-        "over15HT": 50,
-        "over25HT": 10
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.9,
-        "localCasa": 1.6,
-        "visitaGeneral": 2.3,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 13.8,
-        "defensaLocal": 100.1,
-        "ataqueVisita": 31.3,
-        "defensaVisita": 120.7
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Yokohama M.",
-      "equipoVisita": "Tokyo Verdy",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Yokohama M.",
-      "probabilidades": {
-        "ganadorLocal": 42.9,
-        "empate": 42.9,
-        "ganadorVisita": 14.3,
-        "generalLocal": 50,
-        "generalEmpate": 40,
-        "generalVisita": 10,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 0,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 0,
-        "btts": 8.5,
-        "over15": 25,
-        "over25": 16.5,
-        "over35": 0,
-        "over05HT": 50,
-        "over15HT": 8.5,
-        "over25HT": 8.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.6,
-        "localCasa": 1.75,
-        "visitaGeneral": 0.4,
-        "visitaFuera": 0.67
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 16.3,
-        "defensaLocal": 115.6,
-        "ataqueVisita": 5,
-        "defensaVisita": 100.1
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J1 League",
-      "region": "Japan",
-      "ligaSlug": "japan",
-      "equipoLocal": "Urawa RD",
-      "equipoVisita": "JEF Utd Chiba",
-      "horaInicio": "2026-10-21T11:30:00.000Z",
-      "equipoFavorito": "Urawa RD",
-      "probabilidades": {
-        "ganadorLocal": 66.7,
-        "empate": 11.1,
-        "ganadorVisita": 22.2,
-        "generalLocal": 55,
-        "generalEmpate": 15,
-        "generalVisita": 30,
-        "ganadorSimpleLocal": 50,
-        "ganadorSimpleVisita": 10,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 0,
-        "btts": 35,
-        "over15": 35,
-        "over25": 26.5,
-        "over35": 10,
-        "over05HT": 81.5,
-        "over15HT": 73.5,
-        "over25HT": 16.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.5,
-        "localCasa": 1.5,
-        "visitaGeneral": 0.6,
-        "visitaFuera": 0.2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 21.3,
-        "defensaLocal": 95,
-        "ataqueVisita": 10,
-        "defensaVisita": 98.4
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Albirex Niigata",
-      "equipoVisita": "Sagan Tosu",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Albirex Niigata",
-      "probabilidades": {
-        "ganadorLocal": 80,
+        "ganadorLocal": 60,
         "empate": 20,
-        "ganadorVisita": 0,
-        "generalLocal": 50,
-        "generalEmpate": 18.2,
-        "generalVisita": 31.8,
-        "ganadorSimpleLocal": 54.5,
-        "ganadorSimpleVisita": 36.4,
-        "ganadorCasaLocal": 100,
-        "ganadorFueraVisita": 0,
-        "btts": 35,
-        "over15": 45,
-        "over25": 8.5,
+        "ganadorVisita": 20,
+        "generalLocal": 40,
+        "generalEmpate": 20,
+        "generalVisita": 40,
+        "ganadorSimpleLocal": 60,
+        "ganadorSimpleVisita": 60,
+        "ganadorCasaLocal": 66.7,
+        "ganadorFueraVisita": 50,
+        "btts": 25,
+        "over15": 50,
+        "over25": 0,
         "over35": 0,
-        "over05HT": 71.5,
-        "over15HT": 51.5,
+        "over05HT": 75,
+        "over15HT": 50,
         "over25HT": 25
       },
       "rachas": {
@@ -1203,20 +143,20 @@
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 1.82,
-        "localCasa": 3,
-        "visitaGeneral": 1.27,
-        "visitaFuera": 0.4
+        "localGeneral": 2,
+        "localCasa": 2.33,
+        "visitaGeneral": 2,
+        "visitaFuera": 1.5
       },
       "ataqueDefensa": {
-        "ataqueLocal": 17,
-        "defensaLocal": 98.4,
-        "ataqueVisita": 12.5,
-        "defensaVisita": 108.7
+        "ataqueLocal": 25,
+        "defensaLocal": 119,
+        "ataqueVisita": 22.5,
+        "defensaVisita": 120.7
       },
       "cumple": {
         "ganador60": true,
-        "ganadorSimple60": false,
+        "ganadorSimple60": true,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
@@ -1225,100 +165,153 @@
       "destacado": true
     },
     {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Jubilo Iwata",
-      "equipoVisita": "Oita Trinita",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Jubilo Iwata",
+      "liga": "Iran - Pro League",
+      "region": "Iran",
+      "ligaSlug": "iran",
+      "equipoLocal": "Tractor Sazi",
+      "equipoVisita": "Sanat Naft",
+      "horaInicio": "2026-10-22T14:30:00.000Z",
+      "equipoFavorito": "Tractor Sazi",
       "probabilidades": {
-        "ganadorLocal": 30,
-        "empate": 40,
-        "ganadorVisita": 30,
-        "generalLocal": 27.3,
-        "generalEmpate": 31.8,
-        "generalVisita": 40.9,
+        "ganadorLocal": 62.5,
+        "empate": 37.5,
+        "ganadorVisita": 0,
+        "generalLocal": 52.9,
+        "generalEmpate": 35.3,
+        "generalVisita": 11.8,
+        "ganadorSimpleLocal": 62.5,
+        "ganadorSimpleVisita": 11.1,
+        "ganadorCasaLocal": 75,
+        "ganadorFueraVisita": 0,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 62.5,
+        "over15HT": 37.5,
+        "over25HT": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 2.13,
+        "localCasa": 2.5,
+        "visitaGeneral": 0.78,
+        "visitaFuera": 0.5
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 14.1,
+        "defensaLocal": 127.6,
+        "ataqueVisita": 6.9,
+        "defensaVisita": 110.4
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Mexico - Liga Expansion - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico3",
+      "equipoLocal": "Alebrijes",
+      "equipoVisita": "C. Azul Hidaldo",
+      "horaInicio": "2026-10-23T02:00:00.000Z",
+      "equipoFavorito": "Alebrijes",
+      "probabilidades": {
+        "ganadorLocal": 46.2,
+        "empate": 30.8,
+        "ganadorVisita": 23.1,
+        "generalLocal": 38.5,
+        "generalEmpate": 23.1,
+        "generalVisita": 38.5,
+        "ganadorSimpleLocal": 38.5,
+        "ganadorSimpleVisita": 23.1,
+        "ganadorCasaLocal": 50,
+        "ganadorFueraVisita": 14.3,
+        "btts": 36,
+        "over15": 85.5,
+        "over25": 64.5,
+        "over35": 29,
+        "over05HT": null,
+        "over15HT": null,
+        "over25HT": null
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.23,
+        "localCasa": 1.67,
+        "visitaGeneral": 1.08,
+        "visitaFuera": 0.86
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 11.5,
+        "defensaLocal": 89.8,
+        "ataqueVisita": 15.4,
+        "defensaVisita": 96.7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": true,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Montenegro - First League",
+      "region": "Montenegro",
+      "ligaSlug": "montenegro",
+      "equipoLocal": "Mornar Bar",
+      "equipoVisita": "Mladost DG",
+      "horaInicio": "2026-10-22T14:00:00.000Z",
+      "equipoFavorito": "Mornar Bar",
+      "probabilidades": {
+        "ganadorLocal": 50,
+        "empate": 30,
+        "ganadorVisita": 20,
+        "generalLocal": 40.9,
+        "generalEmpate": 36.4,
+        "generalVisita": 22.7,
         "ganadorSimpleLocal": 36.4,
-        "ganadorSimpleVisita": 36.4,
+        "ganadorSimpleVisita": 27.3,
         "ganadorCasaLocal": 40,
         "ganadorFueraVisita": 20,
-        "btts": 16.5,
-        "over15": 25,
-        "over25": 8.5,
-        "over35": 0,
-        "over05HT": 71.5,
-        "over15HT": 36.5,
-        "over25HT": 8.5
+        "btts": 18.5,
+        "over15": 38.5,
+        "over25": 18.5,
+        "over35": 8.5,
+        "over05HT": 53.5,
+        "over15HT": 28.5,
+        "over25HT": 10
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 1.27,
-        "localCasa": 1.4,
-        "visitaGeneral": 1.55,
-        "visitaFuera": 1.2
+        "localGeneral": 1.55,
+        "localCasa": 1.6,
+        "visitaGeneral": 1.09,
+        "visitaFuera": 0.8
       },
       "ataqueDefensa": {
-        "ataqueLocal": 14.8,
-        "defensaLocal": 107,
-        "ataqueVisita": 18.2,
-        "defensaVisita": 115.6
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Omiya Ardija",
-      "equipoVisita": "Kataller Toyama",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Omiya Ardija",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 20,
-        "ganadorVisita": 40,
-        "generalLocal": 31.8,
-        "generalEmpate": 40.9,
-        "generalVisita": 27.3,
-        "ganadorSimpleLocal": 45.5,
-        "ganadorSimpleVisita": 45.5,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 80,
-        "btts": 8.5,
-        "over15": 26.5,
-        "over25": 8.5,
-        "over35": 0,
-        "over05HT": 81.5,
-        "over15HT": 55,
-        "over25HT": 18.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.82,
-        "localCasa": 2.2,
-        "visitaGeneral": 1.73,
-        "visitaFuera": 2.4
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 23.9,
+        "ataqueLocal": 15.9,
         "defensaLocal": 112.1,
-        "ataqueVisita": 22.7,
-        "defensaVisita": 112.1
+        "ataqueVisita": 11.4,
+        "defensaVisita": 101.8
       },
       "cumple": {
         "ganador60": false,
@@ -1331,30 +324,30 @@
       "destacado": false
     },
     {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Shonan Bellmare",
-      "equipoVisita": "Iwaki",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Shonan Bellmare",
+      "liga": "Montenegro - First League",
+      "region": "Montenegro",
+      "ligaSlug": "montenegro",
+      "equipoLocal": "Buducnost",
+      "equipoVisita": "Arsenal Tivat",
+      "horaInicio": "2026-10-22T17:00:00.000Z",
+      "equipoFavorito": "Buducnost",
       "probabilidades": {
-        "ganadorLocal": 55.6,
-        "empate": 22.2,
-        "ganadorVisita": 22.2,
-        "generalLocal": 45.5,
-        "generalEmpate": 27.3,
-        "generalVisita": 27.3,
-        "ganadorSimpleLocal": 36.4,
-        "ganadorSimpleVisita": 45.5,
-        "ganadorCasaLocal": 25,
+        "ganadorLocal": 30,
+        "empate": 50,
+        "ganadorVisita": 20,
+        "generalLocal": 47.6,
+        "generalEmpate": 33.3,
+        "generalVisita": 19,
+        "ganadorSimpleLocal": 45.5,
+        "ganadorSimpleVisita": 10,
+        "ganadorCasaLocal": 40,
         "ganadorFueraVisita": 20,
-        "btts": 27,
-        "over15": 34.5,
+        "btts": 10,
+        "over15": 18.5,
         "over25": 10,
         "over35": 10,
-        "over05HT": 75.5,
-        "over15HT": 44.5,
+        "over05HT": 61.5,
+        "over15HT": 20,
         "over25HT": 10
       },
       "rachas": {
@@ -1363,1074 +356,14 @@
       },
       "ppg": {
         "localGeneral": 1.64,
-        "localCasa": 1.25,
-        "visitaGeneral": 1.36,
-        "visitaFuera": 0.6
+        "localCasa": 1.6,
+        "visitaGeneral": 0.7,
+        "visitaFuera": 1.2
       },
       "ataqueDefensa": {
         "ataqueLocal": 13.6,
-        "defensaLocal": 113.8,
-        "ataqueVisita": 20.5,
-        "defensaVisita": 101.8
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "T. Miyazaki",
-      "equipoVisita": "Blaublitz Akita",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "T. Miyazaki",
-      "probabilidades": {
-        "ganadorLocal": 45.5,
-        "empate": 45.5,
-        "ganadorVisita": 9.1,
-        "generalLocal": 31.8,
-        "generalEmpate": 40.9,
-        "generalVisita": 27.3,
-        "ganadorSimpleLocal": 27.3,
-        "ganadorSimpleVisita": 27.3,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 0,
-        "btts": 20,
-        "over15": 20,
-        "over25": 10,
-        "over35": 10,
-        "over05HT": 90,
-        "over15HT": 30,
-        "over25HT": 0
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.27,
-        "localCasa": 1.5,
-        "visitaGeneral": 1.18,
-        "visitaFuera": 0.4
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 17,
-        "defensaLocal": 105.3,
-        "ataqueVisita": 13.6,
-        "defensaVisita": 110.4
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Tochigi City",
-      "equipoVisita": "Fujieda MYFC",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Tochigi City",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 20,
-        "ganadorVisita": 40,
-        "generalLocal": 27.3,
-        "generalEmpate": 31.8,
-        "generalVisita": 40.9,
-        "ganadorSimpleLocal": 27.3,
-        "ganadorSimpleVisita": 27.3,
-        "ganadorCasaLocal": 20,
-        "ganadorFueraVisita": 20,
-        "btts": 18.5,
-        "over15": 36.5,
-        "over25": 18.5,
-        "over35": 10,
-        "over05HT": 83.5,
-        "over15HT": 35,
-        "over25HT": 26.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1,
-        "localCasa": 0.8,
-        "visitaGeneral": 1.27,
-        "visitaFuera": 0.8
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.3,
-        "defensaLocal": 100.1,
-        "ataqueVisita": 14.8,
-        "defensaVisita": 112.1
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Tokushima V.",
-      "equipoVisita": "V. Hachinohe",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Tokushima V.",
-      "probabilidades": {
-        "ganadorLocal": 50,
-        "empate": 30,
-        "ganadorVisita": 20,
-        "generalLocal": 45.5,
-        "generalEmpate": 18.2,
-        "generalVisita": 36.4,
-        "ganadorSimpleLocal": 36.4,
-        "ganadorSimpleVisita": 27.3,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 20,
-        "btts": 35,
-        "over15": 45,
-        "over25": 16.5,
-        "over35": 8.5,
-        "over05HT": 65,
-        "over15HT": 40,
-        "over25HT": 30
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.27,
-        "localCasa": 2,
-        "visitaGeneral": 1,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 11.4,
-        "defensaLocal": 110.4,
-        "ataqueVisita": 10.2,
-        "defensaVisita": 96.7
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Vegalta Sendai",
-      "equipoVisita": "FC Imabari",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Vegalta Sendai",
-      "probabilidades": {
-        "ganadorLocal": 45.5,
-        "empate": 36.4,
-        "ganadorVisita": 18.2,
-        "generalLocal": 59.1,
-        "generalEmpate": 22.7,
-        "generalVisita": 18.2,
-        "ganadorSimpleLocal": 63.6,
-        "ganadorSimpleVisita": 27.3,
-        "ganadorCasaLocal": 40,
-        "ganadorFueraVisita": 33.3,
-        "btts": 17,
-        "over15": 25,
-        "over25": 17,
-        "over35": 0,
-        "over05HT": 83,
-        "over15HT": 42,
-        "over25HT": 16.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.18,
-        "localCasa": 1.8,
-        "visitaGeneral": 1,
-        "visitaFuera": 1.17
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 20.5,
-        "defensaLocal": 117.3,
-        "ataqueVisita": 15.9,
-        "defensaVisita": 93.2
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J2 League",
-      "region": "Japan",
-      "ligaSlug": "japan2",
-      "equipoLocal": "Ventforet Kofu",
-      "equipoVisita": "Yokohama FC",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Yokohama FC",
-      "probabilidades": {
-        "ganadorLocal": 33.3,
-        "empate": 25,
-        "ganadorVisita": 41.7,
-        "generalLocal": 27.3,
-        "generalEmpate": 18.2,
-        "generalVisita": 54.5,
-        "ganadorSimpleLocal": 27.3,
-        "ganadorSimpleVisita": 45.5,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 33.3,
-        "btts": 8.5,
-        "over15": 56.5,
-        "over25": 18.5,
-        "over35": 8.5,
-        "over05HT": 91.5,
-        "over15HT": 45,
-        "over25HT": 10
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.91,
-        "localCasa": 1.17,
-        "visitaGeneral": 1.64,
-        "visitaFuera": 1.33
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 10.2,
-        "defensaLocal": 91.5,
-        "ataqueVisita": 22.7,
-        "defensaVisita": 107
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Ehime FC",
-      "equipoVisita": "R. Yamaguchi",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Ehime FC",
-      "probabilidades": {
-        "ganadorLocal": 63.6,
-        "empate": 0,
-        "ganadorVisita": 36.4,
-        "generalLocal": 40.9,
-        "generalEmpate": 18.2,
-        "generalVisita": 40.9,
-        "ganadorSimpleLocal": 63.6,
-        "ganadorSimpleVisita": 63.6,
-        "ganadorCasaLocal": 100,
-        "ganadorFueraVisita": 66.7,
-        "btts": 17,
-        "over15": 41.5,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 83.5,
-        "over15HT": 50,
-        "over25HT": 8.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.09,
-        "localCasa": 3,
-        "visitaGeneral": 2.09,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 29.5,
-        "defensaLocal": 107,
-        "ataqueVisita": 18.2,
-        "defensaVisita": 119
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Gifu",
-      "equipoVisita": "SC Sagamihara",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "SC Sagamihara",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 10,
-        "ganadorVisita": 50,
-        "generalLocal": 36.4,
-        "generalEmpate": 18.2,
-        "generalVisita": 45.5,
-        "ganadorSimpleLocal": 54.5,
-        "ganadorSimpleVisita": 54.5,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 60,
-        "btts": 18.5,
-        "over15": 48.5,
-        "over25": 18.5,
-        "over35": 8.5,
-        "over05HT": 91.5,
-        "over15HT": 55,
-        "over25HT": 18.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.73,
-        "localCasa": 1.8,
-        "visitaGeneral": 1.91,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 23.9,
-        "defensaLocal": 113.8,
-        "ataqueVisita": 22.7,
-        "defensaVisita": 110.4
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Kagoshima Utd",
-      "equipoVisita": "Kochi United",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Kagoshima Utd",
-      "probabilidades": {
-        "ganadorLocal": 90.9,
-        "empate": 9.1,
-        "ganadorVisita": 0,
-        "generalLocal": 72.7,
-        "generalEmpate": 18.2,
-        "generalVisita": 9.1,
-        "ganadorSimpleLocal": 72.7,
-        "ganadorSimpleVisita": 9.1,
-        "ganadorCasaLocal": 83.3,
-        "ganadorFueraVisita": 0,
-        "btts": 10,
-        "over15": 20,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 60,
-        "over25HT": 20
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 2.36,
-        "localCasa": 2.67,
-        "visitaGeneral": 0.45,
-        "visitaFuera": 0
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 26.1,
-        "defensaLocal": 108.7,
-        "ataqueVisita": 4.5,
-        "defensaVisita": 88.1
-      },
-      "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Kamatamare S.",
-      "equipoVisita": "Z. Kanazawa",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Z. Kanazawa",
-      "probabilidades": {
-        "ganadorLocal": 18.2,
-        "empate": 27.3,
-        "ganadorVisita": 54.5,
-        "generalLocal": 27.3,
-        "generalEmpate": 18.2,
-        "generalVisita": 54.5,
-        "ganadorSimpleLocal": 9.1,
-        "ganadorSimpleVisita": 36.4,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 33.3,
-        "btts": 25,
-        "over15": 25,
-        "over25": 8.5,
-        "over35": 8.5,
-        "over05HT": 67,
-        "over15HT": 58.5,
-        "over25HT": 17
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.45,
-        "localCasa": 0.2,
-        "visitaGeneral": 1.27,
-        "visitaFuera": 1.33
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 13.6,
-        "defensaLocal": 91.5,
-        "ataqueVisita": 19.3,
-        "defensaVisita": 105.3
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Matsumoto Y.",
-      "equipoVisita": "Kusatsu",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Matsumoto Y.",
-      "probabilidades": {
-        "ganadorLocal": 36.4,
-        "empate": 27.3,
-        "ganadorVisita": 36.4,
-        "generalLocal": 40.9,
-        "generalEmpate": 27.3,
-        "generalVisita": 31.8,
-        "ganadorSimpleLocal": 18.2,
-        "ganadorSimpleVisita": 27.3,
-        "ganadorCasaLocal": 16.7,
-        "ganadorFueraVisita": 20,
-        "btts": 20,
-        "over15": 30,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 40,
-        "over15HT": 40,
-        "over25HT": 10
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1,
-        "localCasa": 0.83,
-        "visitaGeneral": 0.91,
-        "visitaFuera": 0.8
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 11.4,
-        "defensaLocal": 108.7,
-        "ataqueVisita": 12.5,
-        "defensaVisita": 96.7
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "Osaka",
-      "equipoVisita": "Nara Club",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Osaka",
-      "probabilidades": {
-        "ganadorLocal": 36.4,
-        "empate": 36.4,
-        "ganadorVisita": 27.3,
-        "generalLocal": 27.3,
-        "generalEmpate": 31.8,
-        "generalVisita": 40.9,
-        "ganadorSimpleLocal": 36.4,
-        "ganadorSimpleVisita": 63.6,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 50,
-        "btts": 8.5,
-        "over15": 25,
-        "over25": 16.5,
-        "over35": 0,
-        "over05HT": 83.5,
-        "over15HT": 41.5,
-        "over25HT": 33
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.55,
-        "localCasa": 2.2,
-        "visitaGeneral": 2.09,
-        "visitaFuera": 1.83
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 21.6,
-        "defensaLocal": 110.4,
-        "ataqueVisita": 25,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Japan - J3 League",
-      "region": "Japan",
-      "ligaSlug": "japan3",
-      "equipoLocal": "R. Kumamoto",
-      "equipoVisita": "Gainare Tottori",
-      "horaInicio": "2026-10-21T11:00:00.000Z",
-      "equipoFavorito": "Gainare Tottori",
-      "probabilidades": {
-        "ganadorLocal": 20,
-        "empate": 30,
-        "ganadorVisita": 50,
-        "generalLocal": 40.9,
-        "generalEmpate": 31.8,
-        "generalVisita": 27.3,
-        "ganadorSimpleLocal": 36.4,
-        "ganadorSimpleVisita": 36.4,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 60,
-        "btts": 18.5,
-        "over15": 26.5,
-        "over25": 10,
-        "over35": 0,
-        "over05HT": 75,
-        "over15HT": 38.5,
-        "over25HT": 30
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.55,
-        "localCasa": 0.6,
-        "visitaGeneral": 1.27,
-        "visitaFuera": 1.8
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 11.4,
-        "defensaLocal": 120.7,
-        "ataqueVisita": 14.8,
-        "defensaVisita": 96.7
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Mexico - Liga MX - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico",
-      "equipoLocal": "Atlas",
-      "equipoVisita": "CF America",
-      "horaInicio": "2026-10-22T02:00:00.000Z",
-      "equipoFavorito": "CF America",
-      "probabilidades": {
-        "ganadorLocal": 16.7,
-        "empate": 33.3,
-        "ganadorVisita": 50,
-        "generalLocal": 30.4,
-        "generalEmpate": 26.1,
-        "generalVisita": 43.5,
-        "ganadorSimpleLocal": 50,
-        "ganadorSimpleVisita": 63.6,
-        "ganadorCasaLocal": 16.7,
-        "ganadorFueraVisita": 66.7,
-        "btts": 33,
-        "over15": 67,
-        "over25": 33,
-        "over35": 8.5,
-        "over05HT": 91.5,
-        "over15HT": 50,
-        "over25HT": 33
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.75,
-        "localCasa": 1,
-        "visitaGeneral": 2.18,
-        "visitaFuera": 2.17
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.8,
-        "defensaLocal": 100.1,
-        "ataqueVisita": 30.7,
-        "defensaVisita": 107
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": true,
-        "over15_60": true,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": true
-    },
-    {
-      "liga": "Mexico - Liga MX - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico",
-      "equipoLocal": "Puebla",
-      "equipoVisita": "Monterrey",
-      "horaInicio": "2026-10-22T02:00:00.000Z",
-      "equipoFavorito": "Puebla",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 40,
-        "ganadorVisita": 20,
-        "generalLocal": 34.8,
-        "generalEmpate": 26.1,
-        "generalVisita": 39.1,
-        "ganadorSimpleLocal": 33.3,
-        "ganadorSimpleVisita": 45.5,
-        "ganadorCasaLocal": 20,
-        "ganadorFueraVisita": 20,
-        "btts": 34.5,
-        "over15": 34.5,
-        "over25": 7,
-        "over35": 0,
-        "over05HT": 75.5,
-        "over15HT": 27,
-        "over25HT": 20
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.33,
-        "localCasa": 1.2,
-        "visitaGeneral": 1.55,
-        "visitaFuera": 0.8
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 12.5,
-        "defensaLocal": 108.7,
-        "ataqueVisita": 21.6,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Mexico - Liga MX - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico",
-      "equipoLocal": "Toluca",
-      "equipoVisita": "Tijuana",
-      "horaInicio": "2026-10-22T02:00:00.000Z",
-      "equipoFavorito": "Toluca",
-      "probabilidades": {
-        "ganadorLocal": 40,
-        "empate": 40,
-        "ganadorVisita": 20,
-        "generalLocal": 39.1,
-        "generalEmpate": 30.4,
-        "generalVisita": 30.4,
-        "ganadorSimpleLocal": 50,
-        "ganadorSimpleVisita": 36.4,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 0,
-        "btts": 8.5,
-        "over15": 41.5,
-        "over25": 21,
-        "over35": 0,
-        "over05HT": 79,
-        "over15HT": 50,
-        "over25HT": 29
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.75,
-        "localCasa": 1.67,
-        "visitaGeneral": 1.45,
-        "visitaFuera": 0.75
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 27.1,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 17,
-        "defensaVisita": 107
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Mexico - Liga MX - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico",
-      "equipoLocal": "Pachuca",
-      "equipoVisita": "Cruz Azul",
-      "horaInicio": "2026-10-22T04:00:00.000Z",
-      "equipoFavorito": "Cruz Azul",
-      "probabilidades": {
-        "ganadorLocal": 20,
-        "empate": 40,
-        "ganadorVisita": 40,
-        "generalLocal": 29.2,
-        "generalEmpate": 25,
-        "generalVisita": 45.8,
-        "ganadorSimpleLocal": 25,
-        "ganadorSimpleVisita": 50,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 40,
-        "btts": 20,
-        "over15": 41.5,
-        "over25": 17,
-        "over35": 0,
-        "over05HT": 68.5,
-        "over15HT": 44.5,
-        "over25HT": 30
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.08,
-        "localCasa": 0.6,
-        "visitaGeneral": 1.67,
-        "visitaFuera": 1.4
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.8,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 28.1,
-        "defensaVisita": 95
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Mexico - Liga MX - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico",
-      "equipoLocal": "Santos Laguna",
-      "equipoVisita": "Pumas UNAM",
-      "horaInicio": "2026-10-22T04:10:00.000Z",
-      "equipoFavorito": "Santos Laguna",
-      "probabilidades": {
-        "ganadorLocal": 41.7,
-        "empate": 16.7,
-        "ganadorVisita": 41.7,
-        "generalLocal": 37.5,
-        "generalEmpate": 20.8,
-        "generalVisita": 41.7,
-        "ganadorSimpleLocal": 41.7,
-        "ganadorSimpleVisita": 33.3,
-        "ganadorCasaLocal": 50,
-        "ganadorFueraVisita": 50,
-        "btts": 58.5,
-        "over15": 58.5,
-        "over25": 25,
-        "over35": 17,
-        "over05HT": 91.5,
-        "over15HT": 58.5,
-        "over25HT": 8.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.33,
-        "localCasa": 1.67,
-        "visitaGeneral": 1.33,
-        "visitaFuera": 1.67
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 17.7,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 19.8,
-        "defensaVisita": 96.7
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Norway - 1st Division",
-      "region": "Norway",
-      "ligaSlug": "norway2",
-      "equipoLocal": "Sogndal",
-      "equipoVisita": "Raufoss",
-      "horaInicio": "2026-10-21T18:00:00.000Z",
-      "equipoFavorito": "Sogndal",
-      "probabilidades": {
-        "ganadorLocal": 60,
-        "empate": 12,
-        "ganadorVisita": 28,
-        "generalLocal": 46.2,
-        "generalEmpate": 15.4,
-        "generalVisita": 38.5,
-        "ganadorSimpleLocal": 23.1,
-        "ganadorSimpleVisita": 23.1,
-        "ganadorCasaLocal": 41.7,
-        "ganadorFueraVisita": 15.4,
-        "btts": 26,
-        "over15": 59.5,
-        "over25": 30,
-        "over35": 7.5,
-        "over05HT": 96,
-        "over15HT": 66.5,
-        "over25HT": 45
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 0.92,
-        "localCasa": 1.42,
-        "visitaGeneral": 0.77,
-        "visitaFuera": 0.54
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 20.2,
-        "defensaLocal": 29.8,
-        "ataqueVisita": 13.9,
-        "defensaVisita": 12.6
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Paraguay - Primera Div. - Clausura",
-      "region": "Paraguay",
-      "ligaSlug": "paraguay2",
-      "equipoLocal": "Cerro Porteno",
-      "equipoVisita": "S. Ameliano",
-      "horaInicio": "2026-10-21T23:00:00.000Z",
-      "equipoFavorito": "Cerro Porteno",
-      "probabilidades": {
-        "ganadorLocal": 42.9,
-        "empate": 35.7,
-        "ganadorVisita": 21.4,
-        "generalLocal": 35.7,
-        "generalEmpate": 28.6,
-        "generalVisita": 35.7,
-        "ganadorSimpleLocal": 42.9,
-        "ganadorSimpleVisita": 28.6,
-        "ganadorCasaLocal": 57.1,
-        "ganadorFueraVisita": 14.3,
-        "btts": 14.5,
-        "over15": 28.5,
-        "over25": 7,
-        "over35": 0,
-        "over05HT": 93,
-        "over15HT": 36,
-        "over25HT": 7
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.43,
-        "localCasa": 1.86,
-        "visitaGeneral": 1.29,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 16.1,
-        "defensaLocal": 107,
-        "ataqueVisita": 13.4,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Paraguay - Primera Div. - Clausura",
-      "region": "Paraguay",
-      "ligaSlug": "paraguay2",
-      "equipoLocal": "Olimpia",
-      "equipoVisita": "2 de Mayo",
-      "horaInicio": "2026-10-21T23:00:00.000Z",
-      "equipoFavorito": "Olimpia",
-      "probabilidades": {
-        "ganadorLocal": 35.7,
-        "empate": 28.6,
-        "ganadorVisita": 35.7,
-        "generalLocal": 35.7,
-        "generalEmpate": 25,
-        "generalVisita": 39.3,
-        "ganadorSimpleLocal": 57.1,
-        "ganadorSimpleVisita": 57.1,
-        "ganadorCasaLocal": 57.1,
-        "ganadorFueraVisita": 57.1,
-        "btts": 14.5,
-        "over15": 43,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 85.5,
-        "over15HT": 14,
-        "over25HT": 0
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.93,
-        "localCasa": 2,
-        "visitaGeneral": 2,
-        "visitaFuera": 2
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 19.6,
-        "defensaLocal": 113.8,
-        "ataqueVisita": 15.2,
+        "defensaLocal": 119,
+        "ataqueVisita": 7.5,
         "defensaVisita": 108.7
       },
       "cumple": {
@@ -2444,135 +377,135 @@
       "destacado": false
     },
     {
-      "liga": "Paraguay - Primera Div. - Clausura",
-      "region": "Paraguay",
-      "ligaSlug": "paraguay2",
-      "equipoLocal": "S. Luqueno",
-      "equipoVisita": "San Lorenzo",
-      "horaInicio": "2026-10-21T23:00:00.000Z",
-      "equipoFavorito": "S. Luqueno",
+      "liga": "Qatar - Stars League",
+      "region": "Qatar",
+      "ligaSlug": "qatar",
+      "equipoLocal": "Al Shahaniya",
+      "equipoVisita": "Al Sadd",
+      "horaInicio": "2026-10-22T15:30:00.000Z",
+      "equipoFavorito": "Al Sadd",
       "probabilidades": {
-        "ganadorLocal": 50,
-        "empate": 14.3,
-        "ganadorVisita": 35.7,
-        "generalLocal": 50,
-        "generalEmpate": 17.9,
-        "generalVisita": 32.1,
-        "ganadorSimpleLocal": 28.6,
-        "ganadorSimpleVisita": 0,
-        "ganadorCasaLocal": 28.6,
-        "ganadorFueraVisita": 0,
-        "btts": 14,
-        "over15": 28.5,
-        "over25": 7,
+        "ganadorLocal": 40,
+        "empate": 0,
+        "ganadorVisita": 60,
+        "generalLocal": 33.3,
+        "generalEmpate": 8.3,
+        "generalVisita": 58.3,
+        "ganadorSimpleLocal": 33.3,
+        "ganadorSimpleVisita": 66.7,
+        "ganadorCasaLocal": 66.7,
+        "ganadorFueraVisita": 100,
+        "btts": 58.5,
+        "over15": 83.5,
+        "over25": 50,
         "over35": 0,
-        "over05HT": 93,
-        "over15HT": 36,
-        "over25HT": 14.5
+        "over05HT": 100,
+        "over15HT": 83.5,
+        "over25HT": 66.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 0.93,
-        "localCasa": 0.86,
-        "visitaGeneral": 0.29,
-        "visitaFuera": 0.29
+        "localGeneral": 1.17,
+        "localCasa": 2,
+        "visitaGeneral": 2,
+        "visitaFuera": 3
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 16.7,
+        "defensaLocal": 105.3,
+        "ataqueVisita": 47.9,
+        "defensaVisita": 108.7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Qatar - Stars League",
+      "region": "Qatar",
+      "ligaSlug": "qatar",
+      "equipoLocal": "Al Gharafa",
+      "equipoVisita": "Al Ahli Doha",
+      "horaInicio": "2026-10-22T17:45:00.000Z",
+      "equipoFavorito": "Al Gharafa",
+      "probabilidades": {
+        "ganadorLocal": 50,
+        "empate": 33.3,
+        "ganadorVisita": 16.7,
+        "generalLocal": 33.3,
+        "generalEmpate": 25,
+        "generalVisita": 41.7,
+        "ganadorSimpleLocal": 16.7,
+        "ganadorSimpleVisita": 33.3,
+        "ganadorCasaLocal": 25,
+        "ganadorFueraVisita": 0,
+        "btts": 25,
+        "over15": 100,
+        "over25": 25,
+        "over35": 0,
+        "over05HT": 100,
+        "over15HT": 50,
+        "over25HT": 50
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 0.83,
+        "localCasa": 1.25,
+        "visitaGeneral": 1.17,
+        "visitaFuera": 0
       },
       "ataqueDefensa": {
         "ataqueLocal": 12.5,
-        "defensaLocal": 84.7,
-        "ataqueVisita": 4.5,
-        "defensaVisita": 91.5
+        "defensaLocal": 112.1,
+        "ataqueVisita": 20.8,
+        "defensaVisita": 110.4
       },
       "cumple": {
         "ganador60": false,
         "ganadorSimple60": false,
-        "over15_60": false,
+        "over15_60": true,
         "over25_60": false,
         "btts60": false,
         "rachaGanadora": false
       },
-      "destacado": false
+      "destacado": true
     },
     {
-      "liga": "Paraguay - Primera Div. - Clausura",
-      "region": "Paraguay",
-      "ligaSlug": "paraguay2",
-      "equipoLocal": "S. Trinidense",
-      "equipoVisita": "Libertad",
-      "horaInicio": "2026-10-21T23:00:00.000Z",
-      "equipoFavorito": "Libertad",
+      "liga": "Saudi Arabia - Professional League",
+      "region": "Saudi Arabia",
+      "ligaSlug": "saudiarabia",
+      "equipoLocal": "Al Hazm",
+      "equipoVisita": "Al Feiha",
+      "horaInicio": "2026-10-22T14:40:00.000Z",
+      "equipoFavorito": "Al Hazm",
       "probabilidades": {
-        "ganadorLocal": 35.7,
-        "empate": 14.3,
-        "ganadorVisita": 50,
-        "generalLocal": 35.7,
-        "generalEmpate": 21.4,
-        "generalVisita": 42.9,
-        "ganadorSimpleLocal": 50,
-        "ganadorSimpleVisita": 57.1,
-        "ganadorCasaLocal": 42.9,
-        "ganadorFueraVisita": 57.1,
-        "btts": 28.5,
-        "over15": 28.5,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 86,
-        "over15HT": 43,
-        "over25HT": 14.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1.71,
-        "localCasa": 1.43,
-        "visitaGeneral": 1.93,
-        "visitaFuera": 1.86
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 21.4,
-        "defensaLocal": 107,
-        "ataqueVisita": 20.5,
-        "defensaVisita": 103.5
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Spain - LaLiga",
-      "region": "Spain",
-      "ligaSlug": "spain",
-      "equipoLocal": "Levante",
-      "equipoVisita": "Athletic Bilbao",
-      "horaInicio": "2026-10-21T19:00:00.000Z",
-      "equipoFavorito": "Levante",
-      "probabilidades": {
-        "ganadorLocal": 33.3,
-        "empate": 33.3,
-        "ganadorVisita": 33.3,
-        "generalLocal": 20,
-        "generalEmpate": 46.7,
-        "generalVisita": 33.3,
-        "ganadorSimpleLocal": 12.5,
-        "ganadorSimpleVisita": 28.6,
-        "ganadorCasaLocal": 33.3,
-        "ganadorFueraVisita": 33.3,
-        "btts": 10,
-        "over15": 36.5,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 46.5,
+        "ganadorLocal": 40,
+        "empate": 40,
+        "ganadorVisita": 20,
+        "generalLocal": 35,
+        "generalEmpate": 35,
+        "generalVisita": 30,
+        "ganadorSimpleLocal": 20,
+        "ganadorSimpleVisita": 10,
+        "ganadorCasaLocal": 20,
+        "ganadorFueraVisita": 0,
+        "btts": 30,
+        "over15": 50,
+        "over25": 20,
+        "over35": 10,
+        "over05HT": 60,
         "over15HT": 20,
         "over25HT": 0
       },
@@ -2581,16 +514,16 @@
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 0.88,
-        "localCasa": 1.33,
-        "visitaGeneral": 1.29,
-        "visitaFuera": 1.33
+        "localGeneral": 0.9,
+        "localCasa": 1,
+        "visitaGeneral": 0.7,
+        "visitaFuera": 0.4
       },
       "ataqueDefensa": {
-        "ataqueLocal": 18.8,
-        "defensaLocal": 103.5,
+        "ataqueLocal": 12.5,
+        "defensaLocal": 107,
         "ataqueVisita": 12.5,
-        "defensaVisita": 120.7
+        "defensaVisita": 101.8
       },
       "cumple": {
         "ganador60": false,
@@ -2603,47 +536,47 @@
       "destacado": false
     },
     {
-      "liga": "USA - USL Championship",
-      "region": "USA",
-      "ligaSlug": "usa2",
-      "equipoLocal": "Sporting JAX",
-      "equipoVisita": "Louisville City",
-      "horaInicio": "2026-10-22T00:30:00.000Z",
-      "equipoFavorito": "Louisville City",
+      "liga": "Saudi Arabia - Professional League",
+      "region": "Saudi Arabia",
+      "ligaSlug": "saudiarabia",
+      "equipoLocal": "Al Fateh",
+      "equipoVisita": "Al Shabab",
+      "horaInicio": "2026-10-22T15:45:00.000Z",
+      "equipoFavorito": "Al Shabab",
       "probabilidades": {
-        "ganadorLocal": 25,
-        "empate": 25,
+        "ganadorLocal": 12.5,
+        "empate": 37.5,
         "ganadorVisita": 50,
-        "generalLocal": 21.4,
-        "generalEmpate": 21.4,
-        "generalVisita": 57.1,
-        "ganadorSimpleLocal": 10.7,
-        "ganadorSimpleVisita": 42.9,
-        "ganadorCasaLocal": 14.3,
-        "ganadorFueraVisita": 35.7,
-        "btts": 18,
-        "over15": 36,
-        "over25": 25,
-        "over35": 7,
-        "over05HT": 93,
-        "over15HT": 64,
-        "over25HT": 28.5
+        "generalLocal": 21.1,
+        "generalEmpate": 42.1,
+        "generalVisita": 36.8,
+        "ganadorSimpleLocal": 10,
+        "ganadorSimpleVisita": 11.1,
+        "ganadorCasaLocal": 0,
+        "ganadorFueraVisita": 0,
+        "btts": 46.5,
+        "over15": 56.5,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 63.5,
+        "over15HT": 36.5,
+        "over25HT": 20
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "localGeneral": 0.5,
-        "localCasa": 0.64,
-        "visitaGeneral": 1.54,
-        "visitaFuera": 1.36
+        "localGeneral": 0.6,
+        "localCasa": 0.2,
+        "visitaGeneral": 0.89,
+        "visitaFuera": 0.67
       },
       "ataqueDefensa": {
-        "ataqueLocal": 14.3,
-        "defensaLocal": 4,
-        "ataqueVisita": 21.9,
-        "defensaVisita": 57.2
+        "ataqueLocal": 11.3,
+        "defensaLocal": 96.7,
+        "ataqueVisita": 15.3,
+        "defensaVisita": 108.7
       },
       "cumple": {
         "ganador60": false,
@@ -2654,6 +587,112 @@
         "rachaGanadora": false
       },
       "destacado": false
+    },
+    {
+      "liga": "Saudi Arabia - Professional League",
+      "region": "Saudi Arabia",
+      "ligaSlug": "saudiarabia",
+      "equipoLocal": "Al Ahli Jeddah",
+      "equipoVisita": "Al Khaleej",
+      "horaInicio": "2026-10-22T19:00:00.000Z",
+      "equipoFavorito": "Al Ahli Jeddah",
+      "probabilidades": {
+        "ganadorLocal": 50,
+        "empate": 37.5,
+        "ganadorVisita": 12.5,
+        "generalLocal": 42.1,
+        "generalEmpate": 31.6,
+        "generalVisita": 26.3,
+        "ganadorSimpleLocal": 66.7,
+        "ganadorSimpleVisita": 20,
+        "ganadorCasaLocal": 100,
+        "ganadorFueraVisita": 20,
+        "btts": 18.5,
+        "over15": 45,
+        "over25": 18.5,
+        "over35": 0,
+        "over05HT": 61.5,
+        "over15HT": 53.5,
+        "over25HT": 35
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 2,
+        "localCasa": 3,
+        "visitaGeneral": 1.2,
+        "visitaFuera": 1.2
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 31.9,
+        "defensaLocal": 110.4,
+        "ataqueVisita": 11.3,
+        "defensaVisita": 108.7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Super League",
+      "region": "USA",
+      "ligaSlug": "usa7",
+      "equipoLocal": "F. Lauderdale W",
+      "equipoVisita": "Carolina A. W",
+      "horaInicio": "2026-10-23T00:30:00.000Z",
+      "equipoFavorito": "Carolina A. W",
+      "probabilidades": {
+        "ganadorLocal": 25,
+        "empate": 0,
+        "ganadorVisita": 75,
+        "generalLocal": 16.7,
+        "generalEmpate": 5.6,
+        "generalVisita": 77.8,
+        "ganadorSimpleLocal": 22.2,
+        "ganadorSimpleVisita": 77.8,
+        "ganadorCasaLocal": 50,
+        "ganadorFueraVisita": 100,
+        "btts": 10,
+        "over15": 45,
+        "over25": 10,
+        "over35": 0,
+        "over05HT": 77.5,
+        "over15HT": 42.5,
+        "over25HT": 20
+      },
+      "rachas": {
+        "local": "W6",
+        "visita": "W22"
+      },
+      "ppg": {
+        "localGeneral": 0.67,
+        "localCasa": 1.5,
+        "visitaGeneral": 2.44,
+        "visitaFuera": 3
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 9.7,
+        "defensaLocal": 103.5,
+        "ataqueVisita": 23.6,
+        "defensaVisita": 120.7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
     }
   ]
 }
