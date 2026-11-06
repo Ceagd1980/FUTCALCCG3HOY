@@ -421,8 +421,19 @@ async function main() {
   try {
     console.log('Probando conexión a SoccerStats.com...');
     try {
-      await obtenerHtml('https://www.soccerstats.com/');
-      const prueba = await obtenerHtml('https://www.soccerstats.com/leagues.asp');
+            let prueba = null;
+      for (let intento = 1; intento <= 6; intento++) {
+        try {
+          await obtenerHtml('https://www.soccerstats.com/');
+          prueba = await obtenerHtml('https://www.soccerstats.com/leagues.asp');
+          break;
+        } catch (err) {
+          console.warn(`  Intento ${intento}/6 falló: ${err.message}`);
+          if (intento === 6) throw err;
+          console.warn('  Esperando 5 minutos antes de reintentar...');
+          await new Promise((r) => setTimeout(r, 5 * 60 * 1000));
+        }
+      }
       console.log(`Conexión OK (recibidos ${prueba.length} caracteres de HTML).\n`);
     } catch (e) {
       console.error('\n========================================================');
